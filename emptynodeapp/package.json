@@ -1,0 +1,21 @@
+{
+  "name": "emptynodeapp",
+  "version": "1.0.0",
+  "description": "Empty Node app",
+  "main": "src/one.js",
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint": "^4.6.1",
+    "eslint-config-walmart": "^1.2.4",
+    "eslint-plugin-filenames": "^1.2.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jest": "^21.0.0",
+    "jest": "^21.0.1"
+  },
+  "scripts": {
+    "test": "jest --watch"
+  }
+}
